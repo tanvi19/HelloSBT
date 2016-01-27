@@ -3,7 +3,7 @@ organization := "com.cybage.hellosbt"
 
 //Version of your project
 version := "0.1.0"
-
+ 
 //Scala version
 scalaVersion := "2.11.6"
 
